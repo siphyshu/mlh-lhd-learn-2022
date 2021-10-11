@@ -10,7 +10,7 @@ Lazy Junk Sort is a command-line file sorter, which automates the boring task of
 Open a terminal, and run lazyjunksort.py with python.  
 The command is: `lazyjunksort.py [-h] -p PATH`
 
-Watch the [demo]() to understand better!
+Watch the [demo](https://youtu.be/gbJOiFP6nYA) to understand better!
 
 
 # Contributors
