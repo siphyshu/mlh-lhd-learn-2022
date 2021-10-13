@@ -1,6 +1,6 @@
 # Summary
 
-![2021-10-12 12_43_54-Command Prompt - morse-code](https://user-images.githubusercontent.com/52672162/136909273-f544678b-ca88-420d-bd35-3877b636c2a7.png)
+![2021-10-12 12_43_54-Command Prompt - morse-code](https://scoutlife.org/wp-content/uploads/2007/02/morsecode-1.jpg?w=700)
 
 A CLI-based [morse code](https://www.britannica.com/topic/Morse-Code) encoder/decoder utility.  
 English can be converted into Morse Code and vice Versa.
