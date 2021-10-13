@@ -34,11 +34,11 @@ def main():
     while True:
         os.system("cls")
 
-        choose = input('''MORSE CODE DIT-DASH BEEP-BOOP
+        choose = input('''MORSE CODE TRANSLATOR
 
-(1) ENG --> MORSE
-(2) MORSE --> ENG
-[Q to quit]
+(1) ENGLISH --> MORSE
+(2) MORSE --> ENGLISH
+[PRESS Q TO QUIT]
 Enter: ''')
 
         if choose == '1':
