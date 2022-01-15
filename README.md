@@ -2,7 +2,7 @@
 
 A collection of all the Challenges and Projects I made during MLH Local Hack Day: Learn 2022 🚀
 
-![image](https://user-images.githubusercontent.com/52672162/149630543-b48f1813-8aba-46fd-ba8b-552aa1ce6ba4.png)
+<img src="/mlh-lhd-learn-banner.png" width="650">
 
 
 ### Some of the things we made:
